@@ -1,0 +1,10 @@
+.texto2{
+    position: absolute;
+    top: 40%;
+    right: 5%;
+    text-align: right;
+}
+
+.bgImgOscura{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("ba1.jpg");
+}
